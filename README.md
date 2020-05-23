@@ -4,4 +4,4 @@ This project is an Asyncronous app that uses web API with routes and request usi
 
 The Port number is 8000.
 
-The Zipcode is US zipcode only. (eg: 90089 )
+The Zipcode is US zipcode only. (eg: 90089)
